@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7123839-7d64-4325-b528-90964e761abd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/parameterized/ParameterizedTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661178889863.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661178889863.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661178896170.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661178896170.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181568408.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181568408.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181577134.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181577134.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181656338.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181656338.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181666367.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181666367.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181781065.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181781065.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181787310.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181787310.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181824133.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181824133.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181835345.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181835345.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181937259.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181937259.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181946385.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661181946385.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661182088342.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661182088342.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661182100537.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661182100537.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661182192356.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661182192356.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661183340082.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1661183340082.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/parameterized.ParameterizedTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/parameterized.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-parameterized.ParameterizedTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parameterized/ParameterizedTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DiLcoB6UrNUBhdzYu5AP6doERW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Gradle.ParameterizedTests">
+    <configuration name="ParameterizedTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;parameterized.ParameterizedTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParameterizedTests.checkHeader" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;parameterized.ParameterizedTests.checkHeader&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParameterizedTests.checkHeaderTextTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;parameterized.ParameterizedTests.checkHeaderTextTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParameterizedTests.checkMenuTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;parameterized.ParameterizedTests.checkMenuTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParameterizedTests.commonComplexSearchTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;parameterized.ParameterizedTests.commonComplexSearchTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ParameterizedTests" />
+        <item itemvalue="Gradle.ParameterizedTests.checkMenuTest" />
+        <item itemvalue="Gradle.ParameterizedTests.checkHeaderTextTest" />
+        <item itemvalue="Gradle.ParameterizedTests.commonComplexSearchTest" />
+        <item itemvalue="Gradle.ParameterizedTests.checkHeader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7123839-7d64-4325-b528-90964e761abd" name="Default Changelist" comment="" />
+      <created>1661177039751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661177039751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1661177283692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1661177283692" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1661187845161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1661187845161" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1661187845158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1661187845158" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1661187845158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1661187845158" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1661187845161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1661187845161" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1661179584237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1661179584237" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1661179584237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1661179584237" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1661179584237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1661179584237" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1661179584237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1661179584237" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1661182646528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1661182646528" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1661178028018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1661178028018" />
+  </component>
+</project>
